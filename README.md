@@ -11,31 +11,56 @@ This system demonstrates the use of structured programming, data handling, and u
 FEATURES OF THE PROGRAM
 
 .Add Flights: Enter flight ID, source, destination, and number of seats.
+
 .View Flights: Display all available flights with their details.
+
 .Book Tickets: Book a seat on a selected flight and generate a booking ID.
+
 .View Bookings: Show all ticket bookings with passenger names.
+
 .Seat Management: Seats automatically decrease when a booking is made.
+
 .Input Validation: Ensures users enter valid numbers and non-empty names.
+
 .Menu System: Easy-to-use menu to access all functions.
+
 
 TECHNICAL REQUIREMENTS
 
+
 .OS: Windows, Linux, or macOS
+
 .Software: Any C compiler (GCC, MinGW, etc.)
+
 .Editor/IDE: VS Code, Code::Blocks, Dev-C++, or any text editor
+
 .Libraries Needed: stdio.h, string.h, ctype.h
+
 .Hardware: Basic computer with ~1 GB RAM
+
 .Memory: Supports up to 50 flights and 100 bookings
+
+
 
 FUNCTIONAL REQUIREMENT
 
+
+
 .The system must allow adding new flights.
+
 .The system must display all available flights.
+
 .The system must allow booking tickets for a selected flight.
+
 .The system must store and display all bookings.
+
 .The system must update seat count after each booking.
+
 .The system must validate user inputs and prevent invalid entries.
+
 .The system must provide a menu for easy navigation.
+
+
 
 HOW TO RUN PROGRAM
 
